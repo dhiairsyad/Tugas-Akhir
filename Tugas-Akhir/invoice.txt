@@ -1,0 +1,11 @@
+==================================
+		INVOICE
+==================================
+Nama Barang  : pensil
+Total Harga  : 20000
+Sisa E-Money : 980000
+Status       : LUNAS
+==================================
+		TERIMAKASIH
+		TELAH BERBELANJA
+

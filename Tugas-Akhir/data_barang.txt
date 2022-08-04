@@ -1,0 +1,12 @@
+Nama Barang : pulpen
+Harga       : 2000
+Stok        : 10
+
+Nama Barang : pensil
+Harga       : 1000
+Stok        : 20
+
+Nama Barang : buku
+Harga       : 3000
+Stok        : 15
+
